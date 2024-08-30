@@ -43,7 +43,7 @@ body {
   }
   
   .sidebar ul li.active {
-    background-color: #007bff;
+    background-color: #007bffa4;
     color: white;
   }
   
